@@ -1,6 +1,6 @@
 # A Journey Toward a Suitable Predictive Model
 
-This repository contains the code used to reproduce all results, figures, and experiments from the article **"A Journey Toward a Suitable Predictive Model"** for the Henkel Data & Analytics Blog. The article explores how different models behave when predicting product sales and shows why the most useful model is the one that fits the structure of the problem, not necessarily the most accurate one.
+This repository contains the code used to reproduce all results, figures, and experiments from the article [A Journey Toward a Suitable Predictive Model](https://medium.com/henkel-data-and-analytics/a-journey-toward-a-suitable-predictive-model-47fc49505606) for the Henkel Data & Analytics Blog. The article explores how different models behave when predicting product sales and shows why the most useful model is the one that fits the structure of the problem, not necessarily the most accurate one.
 
 ## Contents
 
